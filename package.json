@@ -1,0 +1,14 @@
+{
+  "name": "json-serve",
+  "version": "1.0.0",
+  "description": "my fake API data on Json-serve",
+  "main": "index.js",
+  "scripts": {
+    "json:serve": "json-server --watch db.json"
+  },
+  "author": "Ravelomevasoavina",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
