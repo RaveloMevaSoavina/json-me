@@ -1,25 +1,52 @@
 {
-  "users": [
+  "profil": [
     {
-      "id": 1,
       "firstName": "Ravelo",
       "lastName": "Meva Soavina",
       "email": "mevaravelosoavina@gmail.com",
-      "age": 25
-    },
-    {
-      "id": 2,
-      "firstName": "Rakotoarison",
-      "lastName": "Nosoavinanirina Ny Fitia",
-      "email": "nyfitianosoavinanirina@gmail.com",
-      "age": 24
-    },
-    {
-      "id": 3,
-      "firstName": "Robiarisoa",
-      "lastName": "Bako Hanitra",
-      "email": "bakohanitra@gmail.com",
-      "age": 60
+      "age": "25ans",
+      "phoneNumber": "+261346746200",
+      "poste": "Front-end developper",
+      "description": "Front-end developer specializiing in mostly Javascript, but also write a little bit on PHP"
     }
-  ]
+  ],
+  "Skill": [
+    {
+      "id": "1",
+      "technologie": "HTML 5",
+      "type": "pure",
+      "level": "advanced"
+    },
+    {
+      "id": "2",
+      "technologie": "CSS 3",
+      "type": "pure",
+      "level": "advanced"
+    },
+    {
+      "id": "3",
+      "technologie": "Javascript ES6+",
+      "type": "pure",
+      "level": "Intermediate"
+    },
+    {
+      "id": "4",
+      "technologie": "Angular 2+",
+      "type": "framework",
+      "level": "Intermediate"
+    },
+    {
+      "id": "5",
+      "technologie": "Vue.js",
+      "type": "framework",
+      "level": "Intermediate"
+    },
+    {
+      "id": "6",
+      "technologie": "REST API",
+      "type": "pure",
+      "level": "Advanced"
+    }
+  ],
+  "experience": [{}]
 }
